@@ -1,7 +1,9 @@
 # RAG with AI Search Upskilling Workshop
+
 This repository is designed to support hands-on learning and upskilling in **Retrieval-Augmented Generation (RAG)** with Azure OpenAI and Azure AI Search. It includes detailed setup instructions, practical notebooks and guided experiences to help you build, customize, and optimize GenAI applications using Microsoft Azure.
 
 ## 📚 What’s Inside
+
 This upskilling repo is **based on and extends** the following Microsoft resources:
 
 * [RAG Time](https://github.com/microsoft/rag-time) by Microsoft
@@ -11,9 +13,12 @@ The content has been adapted and enriched to provide a smoother and more guided 
 ## 📁 Repository Structure
 
 ### **01 – Azure Resource Setup**  
+
 🧱 **Foundation for Everything**  
 Before doing anything else, you’ll need to set up the essential Azure services: **Azure OpenAI**, **Azure AI Search**, and **Azure Storage**.  
 This step lays the groundwork for all following steps.
+
+[Chapter 1 - Azure Resource Setup](02-AzureResourceSetup/02-AzureResourceSetup.md)
 
 > 🔧 **To Do:** Manual, no-code setup using the Azure Portal.
 

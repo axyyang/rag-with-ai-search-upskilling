@@ -5,7 +5,8 @@ The code and expected answers are only examples, there are many other ways to ac
 Especially the answers are non-deterministic in the LLM-context - therefore, just check whether you receive a semantically similar response!
 ___
 
-## :question: Task 1: What Healthplans does Northwind Health offer??
+## :question: Task 1: What Healthplans does Northwind Health offer?
+
 Find out what Healthplans are offered by Northwind Health
 
 <details>
@@ -63,6 +64,7 @@ Find out what Healthplans are offered by Northwind Health
 ___
 
 ## :question: Bonus Task 2: Expose it as a function
+
 This is a lot of code to repeat everytime a new questions comes. Create a function that takes the user question as an input and prints out the answer on the screen as a result.
 
 <details>
@@ -115,6 +117,7 @@ ___
 
 
 ## :question: Task 3: Is there a limit on how much can be expensed with PerksPlus?
+
 Find out whether there is a limit how much can be expensed with the PerksPlus program.
 
 <details>
@@ -135,8 +138,8 @@ Find out whether there is a limit how much can be expensed with the PerksPlus pr
 
 ___
 
-
 ## :question: Task 4: Test Hallucinations
+
 Let's test the system whether it avoids hallucination or answers with irrelevant information when it shouldn't. Think of a question that surely has nothing to do with the content of the Search index and test your systems ability to handle this!
 
 <details>
@@ -155,8 +158,8 @@ Let's test the system whether it avoids hallucination or answers with irrelevant
 
 </details>
 
-
 ## :question: Task 5: Review Token Consumption
+
 Find out how many tokens you used up overall for these few questions.
 Hint: You can solve this via the Azure Portal
 
@@ -175,6 +178,3 @@ Hint: You can solve this via the Azure Portal
     Check out the sample GPT-4o-consumption here: media\04-gpt-4o-consumption.png
 
 </details>
-
-
-
